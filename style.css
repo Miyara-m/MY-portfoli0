@@ -1,0 +1,12 @@
+body{  
+color:darkmagenta;
+ text-align: center;
+    //align-items: center;
+}
+#app{
+    background:linear-gradient(#FF1744 0%,#18FFFF 100%);
+
+}
+#chatbots{
+    background-color: deeppink;
+}
